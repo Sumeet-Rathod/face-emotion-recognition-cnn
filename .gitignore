@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python cache & logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# Dataset (Automatically verified/downloaded via dataset_info.py)
+data/
+
+# Operating system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+    "overall_test_accuracy": 0.2814154326915741,
+    "overall_test_accuracy_pct": 28.14,
+    "overall_test_loss": 1.7403,
+    "macro_f1": 0.2265,
+    "weighted_f1": 0.2567,
+    "per_class_accuracy_pct": {
+        "angry": 15.970772442588727,
+        "disgust": 40.54054054054054,
+        "fear": 0.29296875,
+        "happy": 36.753100338218715,
+        "neutral": 11.516626115166261,
+        "sad": 36.56776263031275,
+        "surprise": 68.47172081829122
+    }
+}
